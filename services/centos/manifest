@@ -1,3 +1,0 @@
-NAME=centos
-TEMPLATE=yum
-FILTER="grep -v -e centos6"
