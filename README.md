@@ -1,3 +1,8 @@
+# Ruby-Alpine images for Tugboat
+
+NOTE: This is a branch/fork of the main image repo and I manually build and push to https://hub.docker.com/r/njt1982/ruby when I need to :)
+
+
 # Tugboat Service Images
 
 This repository contains the scripts used to generate the Docker images used by
